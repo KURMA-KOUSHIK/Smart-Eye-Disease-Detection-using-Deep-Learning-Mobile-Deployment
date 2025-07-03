@@ -94,4 +94,4 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Authors
 
-- **Kurma Koushik** – [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+- **Kurma Koushik** – [GitHub](https://github.com/KURMA-KOUSHIK) · [LinkedIn](https://www.linkedin.com/in/kurma-koushik-690ab32b9/)
